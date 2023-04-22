@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T15:03:11.230Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="E91F6ZMYl4-DJKZGQoOB" version="21.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T15:07:18.914Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="Rgb9_vQnMY8ZtzOtliC0" version="21.2.0" type="github">
   <diagram name="Page-1" id="UtkHeV6uxtWy_sj3QnAZ">
     <mxGraphModel dx="1226" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ris18r9FBPOmrq_4ZwZm-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="80" y="560" width="680" height="400" as="geometry" />
+          <mxGeometry x="80" y="570" width="680" height="380" as="geometry" />
         </mxCell>
         <mxCell id="4WDIA_1txPUaSzjZda2C-1" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillStyle=auto;fillColor=none;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="80" y="120" width="700" height="400" as="geometry" />
@@ -87,7 +87,7 @@
             <mxPoint x="210" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ris18r9FBPOmrq_4ZwZm-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Ris18r9FBPOmrq_4ZwZm-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;fontColor=#ffffff;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="800" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ris18r9FBPOmrq_4ZwZm-14" value="kubelet" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;dashed=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
@@ -105,7 +105,7 @@
         <mxCell id="Ris18r9FBPOmrq_4ZwZm-19" value="pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="275" y="860" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ris18r9FBPOmrq_4ZwZm-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Ris18r9FBPOmrq_4ZwZm-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontColor=#ffffff;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="800" width="230" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ris18r9FBPOmrq_4ZwZm-21" value="kubelet" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
@@ -123,7 +123,7 @@
         <mxCell id="Ris18r9FBPOmrq_4ZwZm-25" value="pod" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="525" y="860" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Ris18r9FBPOmrq_4ZwZm-26" value="Developer" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/user_people_person_users_man-128.png" vertex="1" parent="1">
+        <mxCell id="Ris18r9FBPOmrq_4ZwZm-26" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/eon-social-media-contact-info-2/32/user_people_person_users_man-128.png" vertex="1" parent="1">
           <mxGeometry x="110" y="645" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ris18r9FBPOmrq_4ZwZm-29" value="Users" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.users;" vertex="1" parent="1">
@@ -171,6 +171,9 @@
             <mxPoint x="590" y="770" as="sourcePoint" />
             <mxPoint x="782" y="979" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ris18r9FBPOmrq_4ZwZm-45" value="Developer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
