@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-23T15:24:27.444Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="U0_pdioBfFQZbn1trpGa" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-23T15:34:10.628Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="G0YXbx9at82TY-pGN_lq" version="21.2.1" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
     <mxGraphModel dx="1226" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
             <mxPoint x="280" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XjlNCTNv254b6shq8vdB-59" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.switch;" vertex="1" parent="1">
+        <mxCell id="XjlNCTNv254b6shq8vdB-59" value="switch" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#6ABD46;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.085,0.085,0],[0.915,0.085,0],[0.915,0.915,0],[0.085,0.915,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=mxgraph.cisco_safe.architecture.generic_appliance;resIcon=mxgraph.cisco_safe.architecture.switch;" vertex="1" parent="1">
           <mxGeometry x="390" y="550" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="XjlNCTNv254b6shq8vdB-61" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XjlNCTNv254b6shq8vdB-59">
@@ -147,6 +147,12 @@
               <mxPoint x="590" y="575" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XjlNCTNv254b6shq8vdB-63" value="&lt;i&gt;&lt;font color=&quot;#ea6b66&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;underlay network&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#b85450;fillStyle=cross-hatch;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="70" y="480" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XjlNCTNv254b6shq8vdB-64" value="&lt;font color=&quot;#b0e3e6&quot;&gt;&lt;i&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;overlay network&lt;/font&gt;&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#0e8088;fillStyle=cross-hatch;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="690" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
